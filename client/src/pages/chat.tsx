@@ -4,7 +4,7 @@ import { Send, Menu, X, Phone, MapPin, MessageCircle, Calendar, CreditCard, Cloc
 import { Button } from "@/components/ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import doctorAvatar from "@assets/generated_images/dr._affan_qaiser_avatar_portrait.png";
+import doctorAvatar from "@assets/380878683_7185872868090817_5305855649220605966_n_1767863620898.jpg";
 
 interface Message {
   id: string;
